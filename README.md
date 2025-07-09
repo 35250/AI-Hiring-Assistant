@@ -108,7 +108,7 @@ A fully responsive, dynamic AI-powered hiring chatbot that interacts with candid
 
 ## 📦 Deployment
 
-Deployed via **Streamlit Cloud**. Visit the live link to explore the app end-to-end.
+Deployed via **Streamlit Cloud**. Visit the live link to explore the app end-to-end. .[Click to Try the App](https://ai-hiring-assistant-6xgfm2j6sholtp7czb8age.streamlit.app/)  
 
 ---
 
