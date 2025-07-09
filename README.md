@@ -33,7 +33,7 @@ A fully responsive, dynamic AI-powered hiring chatbot that interacts with candid
 
 - Starts with friendly, one-by-one questions to collect user info.
 - Asks for tech stack input.
-- Dynamically generates **few smart, relevant questions** based on that tech stack using OpenRouter’s LLM.
+- Dynamically generates **3 smart, relevant questions** based on that tech stack using OpenRouter’s LLM.
 - Allows the candidate to answer those questions.
 - Saves the full conversation & application data to a local `candidates.json` file.
 
@@ -53,7 +53,7 @@ A fully responsive, dynamic AI-powered hiring chatbot that interacts with candid
 
 1. Candidate enters basic information (Name, Email, etc.)
 2. Candidate enters tech stack (e.g. Python, HTML, FastAPI)
-3. App generates few custom interview questions using OpenRouter API
+3. App generates 3 custom interview questions using OpenRouter API
 4. Candidate answers them one by one (with edit option)
 5. Final review page shows all inputs with **edit+submit**
 6. Submission triggers a success message and stores data in `candidates.json`
@@ -108,7 +108,7 @@ A fully responsive, dynamic AI-powered hiring chatbot that interacts with candid
 
 ## 📦 Deployment
 
-Deployed via **Streamlit Cloud**. Visit the live link to explore the app end-to-end. .[Click to Try the App](https://ai-hiring-assistant-6xgfm2j6sholtp7czb8age.streamlit.app/)  
+Deployed via **Streamlit Cloud**. Visit the live link to explore the app end-to-end. [Click to Try the App](https://ai-hiring-assistant-6xgfm2j6sholtp7czb8age.streamlit.app/)  
 
 ---
 
